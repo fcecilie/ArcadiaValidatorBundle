@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    Arcadia\Bundle\ValidatorBundle\:
+        resource: '../../*'
+        exclude: '../../{DependencyInjection,Resources,ArcadiaValidatorBundle.php}'
