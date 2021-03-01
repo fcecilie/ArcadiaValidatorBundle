@@ -1,7 +1,7 @@
 {
     "name": "arcadia/validator-bundle",
     "description": "A symfony validator helper",
-    "type": "library",
+    "type": "symfony-bundle",
     "keywords": ["validator"],
     "homepage": "https://github.com/fcecilie/ArcadiaValidatorBundle",
     "license": "MIT",

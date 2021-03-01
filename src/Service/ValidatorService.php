@@ -1,6 +1,6 @@
 <?php
 
-namespace Arcadia\Bundle\ValidatorBundle;
+namespace Arcadia\Bundle\ValidatorBundle\Service;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Response;
