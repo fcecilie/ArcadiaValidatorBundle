@@ -1,10 +1,14 @@
 {
     "name": "arcadia/validator-bundle",
-    "type": "symfony-bundle",
+    "description": "A symfony validator helper",
+    "type": "library",
+    "keywords": ["validator"],
+    "homepage": "https://github.com/fcecilie/ArcadiaValidatorBundle",
+    "license": "MIT",
     "authors": [
         {
             "name": "Flavian",
-            "email": "flavian.cecilien@laposte.net"
+            "email": "fcecilien@gmail.com"
         }
     ],
     "autoload": {
